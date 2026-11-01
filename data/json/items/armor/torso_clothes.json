@@ -2951,7 +2951,7 @@
     "environmental_protection": 1,
     "valid_mods": [ "steel_padded" ],
     "flags": [ "VARSIZE", "POCKETS", "OUTER" ],
-    "armor": [ { "encumbrance": [ 4, 8 ], "coverage": 90, "covers": [ "torso" ] } ]
+    "armor": [ { "encumbrance": [ 4, 8 ], "coverage": 100, "covers": [ "torso" ] } ]
   },
   {
     "id": "wool_hoodie",
