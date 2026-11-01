@@ -2038,7 +2038,7 @@
     "armor": [
       {
         "encumbrance": [ 12, 15 ],
-        "coverage": 90,
+        "coverage": 100,
         "covers": [ "torso" ],
         "material": [
           { "type": "leather", "covered_by_mat": 100, "thickness": 1.5 },
